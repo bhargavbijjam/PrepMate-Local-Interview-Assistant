@@ -43,7 +43,7 @@ Displayed via Streamlit UI
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/PrepMate-Local-Interview-Assistant.git
+git clone https://github.com/bhargavbijjam/PrepMate-Local-Interview-Assistant.git
 cd PrepMate-Local-Interview-Assistant
 ```
 ### 2. Create Virtual Env & Install Deps
