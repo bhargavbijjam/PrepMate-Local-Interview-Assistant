@@ -16,14 +16,14 @@
 
 ## 🧠 Architecture
 
-User Query
-↓
-Chroma Vector Search ← (Docs → Text Splitter → Embeddings)
-↓
-Retrieved Chunks + Query → Prompt
-↓
-Phi-3 LLM (via Ollama or HF) → Answer
-↓
+User Query  
+↓  
+Chroma Vector Search ← (Docs → Text Splitter → Embeddings)  
+↓  
+Retrieved Chunks + Query → Prompt  
+↓  
+Phi-3 LLM (via Ollama or HF) → Answer  
+↓  
 Displayed via Streamlit UI
 
 ---
