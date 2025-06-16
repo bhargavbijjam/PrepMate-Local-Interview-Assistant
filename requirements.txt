@@ -1,0 +1,13 @@
+langchain
+chromadb
+streamlit
+unstructured
+PyPDF2
+python-dotenv
+sentence-transformers==2.2.2
+transformers==4.30.2
+huggingface-hub==0.15.1
+langchain==0.1.13
+langchain-community==0.0.34
+chromadb==0.4.24
+langchain_community
